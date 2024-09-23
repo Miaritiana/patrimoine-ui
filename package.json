@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@syncfusion/ej2-react-charts": "^27.1.48",
     "bootstrap": "^5.3.3",
     "next": "14.2.13",
     "react": "^18",
